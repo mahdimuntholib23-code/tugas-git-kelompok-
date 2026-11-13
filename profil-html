@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Kelompok</title>
+</head>
+<body>
+    <h1>Profil Kelompok</h1>
+
+    <h2>Mahdi Muntholib</h2>
+    <p>Mahasiswa Sistem Informasi.</p>
+
+    <h2>Dimas Tegar Saputra</h2>
+    <p>Anggota kelompok.</p>
+
+    <h2>M. Fajrul Rahman</h2>
+    <p>Anggota kelompok.</p>
+
+    <a href="index.html">Kembali ke Halaman Utama</a>
+</body>
+</html>
